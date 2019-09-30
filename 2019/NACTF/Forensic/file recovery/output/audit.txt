@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Sep 18 23:47:59 2019
+Invocation: foremost img.iso 
+Output directory: /mnt/d/Capture The Flag/NACTF/Forensic/file recovery/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: img.iso
+Start: Wed Sep 18 23:47:59 2019
+Length: 4 MB (4194304 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00002095.png 	       3 KB 	    1072640 	  (321 x 41)
+Finish: Wed Sep 18 23:47:59 2019
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Sep 18 23:47:59 2019

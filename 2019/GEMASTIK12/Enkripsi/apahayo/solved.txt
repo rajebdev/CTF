@@ -1,0 +1,15 @@
+ini adalah sandi morse
+terlihat dari jumlahnya yang maximal 5-6 digit
+
+convert menjadi titik dan dash kemudian masukkan ke tool http://www.unit-conversion.info/texttools/morse-code/
+
+. .... . .... . .... - .- .... ..- --. .- -.- ... .. .... ..-. .-.. .- --. -. -.-- .- .. -. .. -.- --- -.. . -- --- .-. ... . -... ..- .- - ..-. .-.. .- --. .-.. --- .... .... . .... . .... . ...-- -..-
+
+maka akan didapatkan
+
+ehehehtahugaksihflagnyainikodemorsebuatflaglohhehehe3x
+
+
+setelah mencoba beberapa kata dari diatas maka flagnya 
+
+gemastik12{inikodemorsebuatflag}

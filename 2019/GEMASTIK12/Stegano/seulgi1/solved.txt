@@ -1,0 +1,1 @@
+lakukan strings pada file gambar maka akan muncul flagnya

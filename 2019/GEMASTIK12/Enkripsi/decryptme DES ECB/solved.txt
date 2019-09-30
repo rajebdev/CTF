@@ -1,0 +1,8 @@
+daf42e9a7b8574d646de022211c89e357ff629d1c613f4e3
+gino suka sekali dengan TelU
+format flags : gemastik12{_________}
+
+
+ternyata dengan hint didapatkan hint menggunakan algoritma DES ECB 
+
+maka didapatkan flag W3LC0m3_T0_GeMaasT1K

@@ -1,0 +1,4 @@
+File jangan dibuka merupakan zip yang kemudian di extract dan di dapatkan pdf.
+kemudian convert pdf ke text dengan pdftotext maka akan didapatkan flagnya password
+
+s3lamatAndaB3rh4sil

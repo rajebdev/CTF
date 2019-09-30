@@ -1,0 +1,15 @@
+Used exiftool to get detail of video 
+. dicurigai banyak base64
+ diambil detail subject yang merupakan base 64 : U2VsYW1hdCBhbmRhIGJlbmFyIGluaSB5YW5nIGthbGlhbiBjYXJpIC0tPiA0a2gxcm55YV9LNFVfbTNOZW11a2
+FuS1U=
+
+
+steelah diencode didapatkan 
+hasil
+Selamat anda benar ini yang kalian cari --> 4kh1rnya_K4U_m3NemukanKU
+
+karena flagnya format gemastik12{...}
+maka
+
+flag final yaitu 
+gemastik12{4kh1rnya_K4U_m3NemukanKU}

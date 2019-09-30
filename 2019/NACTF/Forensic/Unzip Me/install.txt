@@ -1,0 +1,11 @@
+#!/bin/bash
+start="*.zip"
+# count=`ls -1 *.zip | wc -l`
+while [[ $(ls -1 *.zip | wc -l) == 1 ]]; do
+ pass=`ls *.zip | sed 's/\.zip//'`
+ filename=`zip t $start -ptest | awk '{print $2}' | grep zip | sed 's/\.zip//'`
+ zip x $start -p$pass
+ rm $start
+ start=$filename".zip"
+ echo $start
+done;

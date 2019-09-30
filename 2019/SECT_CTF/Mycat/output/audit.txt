@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Sep 19 14:11:31 2019
+Invocation: foremost 6A.pdf 
+Output directory: /mnt/d/Capture The Flag/SEC_T/Mycat/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 6A.pdf
+Start: Thu Sep 19 14:11:31 2019
+Length: 923 KB (945878 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     913 KB 	        491 	 
+1:	00000000.pdf 	     923 KB 	          0 	 
+Finish: Thu Sep 19 14:11:31 2019
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+pdf:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu Sep 19 14:11:31 2019

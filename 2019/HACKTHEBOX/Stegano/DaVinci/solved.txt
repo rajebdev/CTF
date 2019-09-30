@@ -1,0 +1,21 @@
+ada 3 file gambar
+
+lakukan binwalk pada gambar monalisa maka didapatkan zip famous
+
+lakukan fcrack agar mudah atau bisa mencari password zip nya di dalam file The pass*
+
+didapatkan file Mona.jpg
+
+dilakukan steghide tanpa key tidak didapatkan apa apa
+
+kemudian ada satu gambar lagi yaitu plan. setelah dianalisa didapatkan string link youtube. 
+kita coba buka. kita lakukan analisa. didapatkan video tanpa apa apa. kita coba gunakan string yang ada di youtube itu. kita coba judulnya. 
+ 
+kemudian lakukan analisa terhadap file mona yang di dapat tadi.
+setelah di steghide tanpa pass, tidak didapatkan apa apa. kemudian kita gunakan string yang didapat dari youtube tadi
+
+ternyata didapatkan key dimana berisi base64
+setelah didecode tenyata menghasilkan base64 lagi.
+lakukan recursiv sehingga didapatkan flag
+
+HTB{M0n@_L1z@_!s_D3@D}

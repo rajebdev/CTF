@@ -1,0 +1,9 @@
+disediakan susunan huruf yang dicurigai sebagai ROT13
+
+setelah dilakukan decode didapatkan string
+
+untung sampai sekarang nggak ada yang tahu kalo kuncinya pisaaaaaaaanggggg
+
+maka flagnya yaitu
+
+gemastik12{pisaaaaaaaanggggg}

@@ -1,0 +1,3 @@
+merupakan flag dari sebelumnya hanya beda tanpa di decode dengan base64 
+
+gemastik12{Q29ycmVjdFBhc3N3cmREQUZB}

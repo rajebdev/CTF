@@ -1,0 +1,13 @@
+file berisi base64 setelah didecode didapatkan kumpulan string
+
+
+hal yang menarik yaitu 
+@oHMdH3%(tf@AWAVAAUATL%! UH-! SIIL)HHHt 1LLDAHH9uH[]A\A]A^A_Ðf.HHEnter the password :%sQ29ycmVjdFBhc3N3cmREQUZB
+You entered correct password
+
+disitu terlihat ada kumpulan huruf setelah dianalisa yaitu base64 = Q29ycmVjdFBhc3N3cmREQUZB
+
+setelah di decode di dapatkan hasil 
+# CorrectPasswrdDAFA
+
+maka flagnya gemastik12{CorrectPasswrdDAFA}
