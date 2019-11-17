@@ -1,0 +1,107 @@
+{
+    "Crypto": {
+        "crypt1": {
+            "Description": "<a href=\"https://drive.google.com/open?id=1awFsbPIW3g0tCr9M7h2zxxoMPov89YmF\"> N X R </a>",
+            "Files": [],
+            "Hint": "",
+            "ID": 7,
+            "Points": 200
+        },
+        "crypt2": {
+            "Description": "nc 192.168.3.100 2025 \r\n\r\n<a href=\"https://www.youtube.com/watch?v=3ymwOvzhwHs\"> Please Steam Twice</a>\r\n\r\n\r\nLimited submit 2 times only",
+            "Files": [],
+            "Hint": "",
+            "ID": 8,
+            "Points": 400
+        }
+    },
+    "Misc": {
+        "misc1": {
+            "Description": "nc 192.168.3.100 6699",
+            "Files": [],
+            "Hint": "",
+            "ID": 9,
+            "Points": 50
+        },
+        "misc2": {
+            "Description": "<a href=\"https://drive.google.com/open?id=1UOmnz8Kcjqz5ENiJSJ0jfcI7TYrnv2Fo\">Flag</a>\r\n\r\nsha1(substr(strrev(real_flag), 5, 10))",
+            "Files": [],
+            "Hint": "",
+            "ID": 10,
+            "Points": 150
+        },
+        "misc3": {
+            "Description": "<a href=\"https://drive.google.com/open?id=1aIY0D-xfjb_qT5pstQwYMuLNbM1t8TW1\"> Cari </a>\r\n\r\nmd5(md5(flag)) == 4127539692df051c972b16a459ec9591 ",
+            "Files": [],
+            "Hint": "",
+            "ID": 11,
+            "Points": 300
+        }
+    },
+    "Reversing": {
+        "rev1": {
+            "Description": "Easy bat \r\n\r\n<a href=\"https://drive.google.com/open?id=12wFdXIcj0Lh2ybXIvxuW6qjlqt3MrVg0\"> EZ</a>",
+            "Files": [],
+            "Hint": "",
+            "ID": 3,
+            "Points": 50
+        },
+        "rev2": {
+            "Description": "Table revenge \r\n\r\n<a href=\"https://drive.google.com/open?id=1EDVOyyAX822SMTlvNRZt-dw4UB2KZLnb\"> Ez </a>",
+            "Files": [],
+            "Hint": "",
+            "ID": 4,
+            "Points": 100
+        },
+        "rev3": {
+            "Description": "<a href=\"https://drive.google.com/open?id=1nMA7s8hrg0uVMpRTAIoBeMOHctTqGRPg\"> Key </a>",
+            "Files": [],
+            "Hint": "",
+            "ID": 5,
+            "Points": 250
+        },
+        "rev4": {
+            "Description": "<a href=\"https://drive.google.com/open?id=11GJRJWLz1BsIifzDWKhr7DILSiGKWZ-h\"> HAHA</a>",
+            "Files": [],
+            "Hint": "",
+            "ID": 6,
+            "Points": 400
+        }
+    },
+    "Web": {
+        "web1": {
+            "Description": "http://192.168.3.100:1001",
+            "Files": [],
+            "Hint": "",
+            "ID": 1,
+            "Points": 100
+        },
+        "web2": {
+            "Description": "http://192.168.3.100:1002\r\n\r\n\r\nMax submit its 2.",
+            "Files": [],
+            "Hint": "",
+            "ID": 2,
+            "Points": 400
+        }
+    },
+    "pwn": {
+        "pwn1": {
+            "Description": "nc 192.168.3.100 3001",
+            "Files": [
+                "6fb46034a966d20eb7cce3d742096a3d/kksi"
+            ],
+            "Hint": "",
+            "ID": 12,
+            "Points": 50
+        },
+        "pwn2": {
+            "Description": "nc 192.168.3.100 31313",
+            "Files": [
+                "8ff01b4254d8ac9b82d89401b7efa25c/tentara"
+            ],
+            "Hint": "",
+            "ID": 13,
+            "Points": 100
+        }
+    }
+}
