@@ -1,0 +1,151 @@
+{
+    "Crypto": {
+        "EZ RSA": {
+            "Description": "<a href=\"https://drive.google.com/open?id=1_oQvjXK0EXYk2jzTHkijzb6vfnRwSoX-\"> Task.py </a>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 10, 
+            "Points": 200
+        }, 
+        "Nayeon Jago Matematika": {
+            "Description": "nc 202.148.2.243 11331", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 11, 
+            "Points": 400
+        }
+    }, 
+    "Forensic": {
+        "Login Traffic": {
+            "Description": "File Download : <a href=\"https://drive.google.com/file/d/1vlAgIsY7f5Z0NLnr0QIiZ74PuHA5DPIU\"> Download Here </a>\r\n\r\nHint : -\r\n\r\nFormat Flag : KKSI2019{flag}", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 22, 
+            "Points": 50
+        }, 
+        "Member have Journal": {
+            "Description": "'camel' script its the key\r\n\r\n<a href=\"https://drive.google.com/file/d/1T0vPrGpO9mi69rTBEiQ2Emnl0z8pBAVU\"> Download Here </a>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 7, 
+            "Points": 70
+        }, 
+        "Read the Log": {
+            "Description": "<a href=\"http://202.148.2.243:30011/\"> Get Flag Here</a>\r\n\r\n<a href=\"https://drive.google.com/file/d/1zujIwaWX3i9wcmCJX6nYT2o6xtwIWFOM\"> Read the Log </a>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 6, 
+            "Points": 70
+        }
+    }, 
+    "Misc": {
+        "KKSI Lost The Key": {
+            "Description": "<a href=\"http://202.148.2.243:30001\">Here</a>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 5, 
+            "Points": 50
+        }, 
+        "Welcome To KKSI2019": {
+            "Description": "Help me find the piece of flag\r\n\r\n<b>1663323d00434ad7#ca8ecca2b#22844</b>\r\n\r\nI just have md5 of full flag.\r\n\r\n<b>1fee4be0b38ae6b8722b49e4db037bbd</b>\r\n\r\nSubmit with\r\n\r\n<b>KKSI2019{}</b>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 4, 
+            "Points": 50
+        }
+    }, 
+    "Reversing": {
+        "BinRevers": {
+            "Description": "File Download : <a href=\"https://drive.google.com/file/d/1ByO0UXYIzDRgslHUrRLxJFdjDnMyC-X9\"> Download Here </a>\r\n\r\nHint : -\r\n\r\nFormat Flag : KKSI2019{flag}", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 24, 
+            "Points": 100
+        }, 
+        "Dahyunie Table": {
+            "Description": "<a href=\"https://drive.google.com/open?id=1hRvAxw5omPh8SXbRvjd-Pdi_NXukpvOs\"> Table </a>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 8, 
+            "Points": 200
+        }, 
+        "Escanor With Keygen": {
+            "Description": "<a href=\"https://drive.google.com/open?id=1iY1z3cNzIU3QQGjKxUl8DcRE2qU4Tv4Y\"> Keygen64 </a>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 9, 
+            "Points": 350
+        }, 
+        "Hex Me If You Can": {
+            "Description": "File Download : <a href=\"https://drive.google.com/file/d/1I75P-9YhzOkKUZZZ3474TeNfcjApCHUD\"> Download Here </a>\r\n\r\nHint : -\r\n\r\nFormat Flag : KKSI2019{flag}", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 23, 
+            "Points": 150
+        }
+    }, 
+    "Web": {
+        "Invoker Welcoming to Final": {
+            "Description": "http://202.148.2.243:20003", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 17, 
+            "Points": 400
+        }, 
+        "Limited Eval": {
+            "Description": "http://202.148.2.243:21200/", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 15, 
+            "Points": 200
+        }, 
+        "Mako Onii-Chan": {
+            "Description": "http://202.148.2.243:21201\r\n\r\n<a href=\"https://drive.google.com/file/d/1HF3SKw4FrNcibCyUrQeaw84QO6XfPuGG/view\">Main.py</a>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 16, 
+            "Points": 300
+        }, 
+        "Tsunade Gambling Master": {
+            "Description": "http://202.148.2.243:20001\r\n\r\n\r\nYou have maximum input on this challenge 3 attempts!", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 14, 
+            "Points": 100
+        }
+    }, 
+    "pwn": {
+        "Easy PWN": {
+            "Description": "nc 202.148.2.243 6661\r\n\r\nFile Download : <a href=\"https://drive.google.com/file/d/10OKTFPP7G319i9c8sanj0m-9kZiNibR9\"> Download Here </a>\r\n\r\nHint : -\r\n\r\nFormat Flag : KKSI2019{flag}\r\n", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 25, 
+            "Points": 100
+        }, 
+        "Sandbox1": {
+            "Description": "nc 202.148.2.243 3320\r\n\r\n<a href=\"https://drive.google.com/open?id=1kMxT4y0n5ph73tAM4bpDRa4M9a55MF8w\"> The File </a>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 12, 
+            "Points": 200
+        }, 
+        "Sandbox2": {
+            "Description": "nc 202.148.2.243 2020\r\n\r\n<a href=\"https://drive.google.com/open?id=1rNpIRiYcRkEV2IDYNjQ5LcFh_7nqpvM3\"> Binary</a>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 13, 
+            "Points": 400
+        }
+    }, 
+    "testing": {
+        "testing": {
+            "Description": "download dan cari flagnya yahh.. :)", 
+            "Files": [
+                "8d75ea7fc889a07b6828ba3e4bebd5b4/flag.jpg.zip"
+            ], 
+            "Hint": "", 
+            "ID": 26, 
+            "Points": 1
+        }
+    }
+}
